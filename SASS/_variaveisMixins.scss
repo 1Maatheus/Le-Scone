@@ -7,7 +7,7 @@ $verde: #1ab912;
 
 //Fontes
 $font-1: "PT Mono", monospace;
-$fonte-2: "Aref Ruqaa", serif;
+$font-2: "Aref Ruqaa", serif;
 
 @function em($pixel, $contexto: 16) {
   @return calc($pixel / $contexto) + em;
