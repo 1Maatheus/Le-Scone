@@ -1,2 +1,11 @@
+//Gerais
 @import "reset";
 @import "grid";
+@import "variaveisMixins";
+@import "geral";
+
+//Partes do site
+@import "intro";
+
+//Fonte
+@import url("https://fonts.googleapis.com/css2?family=Aref+Ruqaa&family=PT+Mono&display=swap");
